@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: 思い立った時に作ろう！
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
