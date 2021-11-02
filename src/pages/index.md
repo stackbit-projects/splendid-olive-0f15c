@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: あああ
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Create what you image when you image.
     actions:
       - label: Try for free
         url: /pricing
