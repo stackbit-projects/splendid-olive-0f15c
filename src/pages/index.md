@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: あああ
-    subtitle: Create what you image when you image.
+    subtitle: Create what you imagine when you imagine.
     actions:
       - label: Try for free
         url: /pricing
